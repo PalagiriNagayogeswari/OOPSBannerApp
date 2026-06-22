@@ -55,16 +55,7 @@ public class OOPSBannerApp {
                 "****** "
         });
 
-        // Space Pattern
-        charMaps[3] = new CharacterPatternMap(' ', new String[]{
-                "       ",
-                "       ",
-                "       ",
-                "       ",
-                "       ",
-                "       ",
-                "       "
-        });
+
 
         return charMaps;
     }
